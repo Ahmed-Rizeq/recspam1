@@ -10,4 +10,4 @@ channel.send(`منورين السيرفر`);
 }, 30)
 })
 
-client.login(NTEwODMyNTY2OTUwMDM1NDU2.DtbvfA.9qQSxD6bRKxOiz0ClTZkCBTSxzA);
+client.login(NTEwODMyNTY2OTUwMDM1NDU2DtbvfA9qQSxD6bRKxOiz0ClTZkCBTSxzA);
